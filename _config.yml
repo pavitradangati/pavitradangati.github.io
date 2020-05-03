@@ -20,7 +20,7 @@ author:
 url: "https://pavitradangati.github.io"
 baseurl:
 permalink: /:title/
-google_analytics:
+google_analytics: UA-165408189-1
 fb_appid:
 
 # Collection setting
