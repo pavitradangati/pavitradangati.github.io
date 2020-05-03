@@ -1,38 +1,21 @@
-# Klisé
+# Theme
 
-Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
-For demo <a href="https://klise.now.sh" target="_blank">klise.now.sh</a>
-
-## Features
-
-- Light & Dark Mode support :waxing_crescent_moon:
-- Customizable (using `.scss`)
-- Responsive (desktop, tab and mobile)
-- Mobile First Design
-- SEO Optimized
-- RSS Feed
-- Syntax Highlighter ([rouge](https://github.com/rouge-ruby/rouge))
-- Next & Previous Post
-- Comment layout, enable in frontmatter if you wish
-- Google analytics
-- HTML Minify ([compressed HTML](https://github.com/penibelst/jekyll-compress-html))
-- W3C **Validated**
-- Lighthouse and PageSpeed **Passed**
-
-![Lighthouse](./lighthouse.png)
+Forked from https://github.com/piharpi/jekyll-klise.git. Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
 
 ## Installation
 
 Run local server:
 
 ```bash
-git clone https://github.com/piharpi/jekyll-klise.git
-cd jekyll-klise
+git clone https://github.com/pavitradangati/pavitradangati.github.io.git
+cd pavitradangati.github.io.
 bundle install
 bundle exec jekyll serve
-```
+```  
 
-Navigate to `localhost:4000`. You're Welcome, Fork and be Stargaze.
+If you do not have bundle installed, please do. To install bundle on mac.
+
+Navigate to `localhost:4000`. 
 
 **Don't Forget** to change site icon, go to `jekyll-klise/assets/favicons` and replace with your own.
 

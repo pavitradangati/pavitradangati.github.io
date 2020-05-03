@@ -1,10 +1,10 @@
 {
-  "name": "Mahendrata",
-  "short_name": "Mahendrata",
+  "name": "Pavitra Dangati",
+  "short_name": "pavitra",
   "icons": [
     {
-      "src": "/assets/favicons/android-chrome-96x96.png",
-      "sizes": "96x96",
+      "src": "/assets/favicons/icon.png",
+      "sizes": "136x96",
       "type": "image/png"
     }
   ],
