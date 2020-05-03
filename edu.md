@@ -7,7 +7,8 @@ comments: false
 ---
 
 
-##### may u needs ✨
+##### Social Media ✨
 
 - {{ site.author.email }}
 - github.com/{{ site.author.username }}
+- https://linkedin.com/in/sai-pavitra-dangati
