@@ -27,3 +27,9 @@ linkedin:
   href: 'https://github.com/in/'
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin-square'
+
+instagram:
+  id: 'pavitradangati'
+  href: 'https://instagram.com/in/'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram-square'
