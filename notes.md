@@ -1,6 +1,6 @@
 ---
-title: Pub Notes
-permalink: /notes/
+title: Blogs
+permalink: /blogs/
 layout: page
 excerpt: Catatan Public agar enggak usah pusing-pusing mengingat.
 comments: false

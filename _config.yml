@@ -11,14 +11,16 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Pavitra Dangati
   bio: >-
-    TBD
+    A cheerful 24yr old trying to get through the days and trying to change the world one code at a time. A Computer Science Master’s student having a diverse skill set and creative drive for Data Science and Software Development.Hardworking, passionate individual with a strong work ethic. 
+
+    This website is a work-in-progress at the moment! 
   username: pavitradangati
   email: pavitradangati@email.com
   avatar: /assets/img/avatar.jpg
 
 # Url settings
 url: "https://pavitradangati.github.io"
-baseurl:
+baseurl: 
 permalink: /:title/
 google_analytics: UA-165408189-1
 fb_appid:

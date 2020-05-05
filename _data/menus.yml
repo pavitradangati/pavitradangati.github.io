@@ -7,7 +7,7 @@
   external: false
 
 - title: Blogs
-  url: /notes/
+  url: /blogs/
   external: false # set true if you using external link, see bellow
   
 - title: Education
